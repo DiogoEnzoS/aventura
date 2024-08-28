@@ -1,0 +1,19 @@
+body {
+    background: thistle;
+    color: black;  
+    font-family:"Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    font-weight: 750;
+    margin: 0;
+} 
+
+button{ 
+    background-color: rgb(134, 52, 134);
+    color: black;
+    font-weight: 800;
+    font-size: 15px;
+    font-family:"Playfair Display", serif;
+}
